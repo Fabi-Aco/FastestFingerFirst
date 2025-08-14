@@ -201,4 +201,4 @@ Reset Mechanism – Clears the winner and prepares the system for the next round
 6. Press the reset button to start again
 
 
-[project PDF guide](./FastestFingerFirst.pdf).
+For further details please checkout --> [project PDF guide](./FastestFingerFirst.pdf).
